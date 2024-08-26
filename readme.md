@@ -1,2 +1,21 @@
-git clone <repository-url>
-cd tracking-number-api
+
+This is trackingID Generator applicatin built by using
+
+		Java 17
+		Spring 3.2.9
+		H2 Database
+
+Repository URL : https://github.com/lokesh4a6/tracking-number/tree/master/src/main
+
+To run the application : 
+
+		git clone https://github.com/lokesh4a6/tracking-number/tree/master/src/main 
+		cd tracking-number-api
+
+To build the project use
+
+		mvn clean install
+
+To run the application:
+
+		mvn spring-boot:run
